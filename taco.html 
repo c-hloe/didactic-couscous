@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+
+    <head>
+        <title>Iwana Taco</title>
+        <link rel="stylesheet" type="text/css" href="style_taco.css">
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    </head>
+    
+    <body>
+        <div class="topnav">
+            <li><a href="buildings.html">buildings</a></li>
+            <li><a href="home.html">home</a></li>
+        </div>
+        
+        <h1>Iwana Taco</h1>
+        
+        <h2>Information</h2>
+        <p>
+            Phone: 604-822-0134
+        </p>
+        <p>
+            Email: flipside@ams.ubc.ca
+        </p>
+        <h2>Hours</h2>
+        <p>
+            Monday - Friday: 11am - 6pm
+        </p>
+        <p>
+            Saturday: 11am - 5pm
+        </p>
+        <p>    
+            Sunday: Closed
+        </p>
+        <p>
+            Closed: Dec. 21 - Jan. 1
+        </p>
+        
+        <img src="http://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2017/04/main/bbq-chicken-black-bean-tacos-1706p36.jpg?itok=tibOjsTH" alt="Mountain View" width="750
+        " height="500">
+        
+        <h2>Menu</h2>
+        
+    <div class="newspaper">
+        <h3>Burritos: 12” Flour Tortillas, Meat & Veggie, $8 ea.</h3>
+        <p>
+            <strong>Beef Asada:</strong> House braised spiced beef, rice, beans, shredded cheese, salsa & sour cream 
+        </p>
+        <p>
+            <strong>Cumin Chicken:</strong> Cumin spiced shredded chicken breast, rice, beans, shredded cheese, salsa & sour cream
+        </p>
+        
+        <h3>Tacos: 4” Soft Corn Tortillas, Meat & Veggie, $3 ea.</h3>
+         <p>
+            <strong>Fish:</strong> Crispy battered cod, chipotle mayo, pico de gallo, shredded cabbage & cilantro  
+        </p>
+        <p>
+            <strong>Beef Asada:</strong> House braised spiced beef, with avocado cream, shreeded cabbage & cilantro
+        </p>
+    </div>
+    
+    <form>
+        <br> 
+        First name:<br>
+        <input type="text">
+        <br> <br>
+        Last name:<br>
+        <input type="text" name="lastname">
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <br>
+    <textarea rows="4" cols="50" name="comment" form="usrform">Write your review here!</textarea>
+    
+    </body>
+        
+</html>

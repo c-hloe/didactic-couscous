@@ -1,0 +1,41 @@
+body {
+    background: white;
+    font-family: 'Josefin Sans',sans-serif; 
+}
+
+.topnav{
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+}
+
+.li a{
+    text-decoration: none;
+    background-color: transparent;
+    position: absolute;
+    color: black;
+    padding: 15px;
+    top: 0;
+}
+
+h1 {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h3 {
+    color: blue;
+    vertical-align: center;
+    margin-top: 0px;
+    padding: 5px;
+}
+
+.newspaper {
+    column-count: 2;
+    height: 200px;
+}
