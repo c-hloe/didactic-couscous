@@ -3,22 +3,46 @@ body {
     font-family: 'Josefin Sans',sans-serif; 
 }
 
-.topnav{
+img {
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topnav {
+    padding: 15px;
+}
+.topnav a {
+    padding: 1px 2px;
+}
+
+.topnav a:link {
     text-decoration: none;
+    color: black;
 }
 
-li{
+.topnav a: visited {
+    text-decoration: none;
+    color: black;
+}
+
+.topnav a: active {
+    text-decoration: none;
+    color: black;
+}
+
+li {
     display: inline;
-    padding: 5px;
+    padding: 20px 5px;
 }
 
-.li a{
+.li a {
     text-decoration: none;
     background-color: transparent;
     position: absolute;
     color: black;
-    padding: 15px;
-    top: 0;
+    padding: 20px;
 }
 
 h1 {
